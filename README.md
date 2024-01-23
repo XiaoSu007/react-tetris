@@ -237,6 +237,9 @@ npm run build
 ```
 
 在build文件夹下生成结果。
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chvin/react-tetris&type=Date)](https://star-history.com/#chvin/react-tetris&Date)
 
 
 
